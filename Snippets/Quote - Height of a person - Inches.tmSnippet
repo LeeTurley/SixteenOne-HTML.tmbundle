@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&amp;Prime;</string>
+	<key>name</key>
+	<string>Quote - Height of a person - Inches</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>"</string>
+	<key>uuid</key>
+	<string>FD2DCF14-8D08-44CC-A08C-7C77E0D53E88</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+=== INSTALLATION ===
+
+cd ~/Library/"Application Support"/TextMate/Bundles/
+
+If the folder doesn't exist create it then clone into it.
+
+
+====================
+
+I use the mHTML Bundle all of the time, but there a few things missing from time to time, so this is my personnel Bundle to work along side it. 
+
+https://github.com/minimaldesign/mHTML.tmbundle

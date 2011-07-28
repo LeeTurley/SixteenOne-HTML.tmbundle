@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+	&lt;meta charset="utf-8" /&gt;
+	&lt;title&gt;${1:HTML5 boilerplate—all you really need…}&lt;/title&gt;
+	&lt;link rel="stylesheet" type="text/css" href="css/style.css" /&gt;
+	&lt;!--[if IE]&gt;
+		&lt;script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+
+&lt;body ${2:id="${3:home}"}&gt;
+
+	&lt;h1&gt;${4:HTML5 boilerplate}&lt;/h1&gt; 
+	
+	$0
+
+&lt;/body&gt;
+&lt;/html&gt;</string>
+	<key>name</key>
+	<string>html5</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>html5</string>
+	<key>uuid</key>
+	<string>D7701D78-E268-481E-88AD-A9E352412BD4</string>
+</dict>
+</plist>
